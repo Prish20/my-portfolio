@@ -12,7 +12,7 @@ export default function Navbar() {
         <li>Portfolio</li>
         <li>Contact</li>
       </ul>
-      <Button className="p-1 rounded-lg bg-gradient-to-r from-blue-500 to-pink-500 text-white hover:scale-105 transform transition-transform duration-300 cursor-pointer">
+      <Button className="p-1 rounded-lg bg-gradient-to-r from-purple-500 to-pink-500 text-white hover:scale-105 transform transition-transform duration-300 cursor-pointer">
         Connect With Me
       </Button>
     </div>
