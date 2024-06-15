@@ -1,6 +1,9 @@
+import Navbar from "./components/Navbar";
 
 export default function App() {
   return (
-    <div className="text-center font-bold">App</div>
+    <div>
+      <Navbar />
+    </div>
   )
 }
